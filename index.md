@@ -32,7 +32,7 @@
 - Gå igenom punkter från vigselförrättare och meddela hur vi vill göra
 - Välja dikt till vigsel
 - Boka möte med toastmasters
-- Boka hotell
+- ~~Boka hotell~~
 - Boka möte med bröllopsfotograf
 - Lämna in kostym för skräddning
 - Skapa bordsplacering
