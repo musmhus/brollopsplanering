@@ -36,7 +36,7 @@
 - Boka möte med bröllopsfotograf
 - Lämna in kostym för skräddning
 - Skapa bordsplacering
-- Beställa bröllopsris
+- ~~Beställa bröllopsris~~
 - Beställa bordsplaceringskort
 - Välja musik att gå ut till, efter vigsel och första dansen
 - Boka danskurs?
