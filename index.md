@@ -85,6 +85,12 @@
 
 ![Platinumpaket](platinumpaket.jpg)
 
+## Bordsplacering
+
+![Bordsplacering](bordsplacering.png)
+
+[Öppna som webbsida (för utskrift)](bordsplacering.html)
+
 ## Körschema Alina (bröllopsdagen)
 
 | Tid   | Aktivitet |

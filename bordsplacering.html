@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bordsplacering</title>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: #f7f4ee;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  h1 {
+    font-family: 'Caveat', 'Segoe Print', cursive;
+    color: #1d5fb8;
+    font-size: 54px;
+    margin: 24px 0 0;
+    letter-spacing: 2px;
+  }
+  svg { width: 100%; max-width: 1500px; height: auto; display: block; }
+  .tableRect {
+    fill: #ffffff;
+    stroke: #1d5fb8;
+    stroke-width: 2.5;
+  }
+  .seat { fill: #dbe6f5; stroke: #1d5fb8; stroke-width: 1.2; }
+  .seatEmpty { fill: #f7f4ee; stroke: #1d5fb8; stroke-width: 1.2; stroke-dasharray: 3 3; }
+  .bordName {
+    font-family: 'Caveat', 'Segoe Print', cursive;
+    font-weight: 700;
+    fill: #1d5fb8;
+    font-size: 40px;
+    text-anchor: middle;
+  }
+  .bordCount { fill: #9a917f; font-size: 16px; text-anchor: middle; }
+  .guest { fill: #8e2f3c; font-size: 22px; font-weight: 600; stroke: #f7f4ee; stroke-width: 5px; paint-order: stroke; }
+  .guestNum { fill: #8a8578; font-size: 15px; font-weight: 400; }
+  @media print { body { background: #fff; } }
+  body.embed { background: transparent; overflow: hidden; }
+  body.embed h1 { display: none; }
+</style>
+</head>
+<body>
+<h1>Bordsplacering</h1>
+<svg id="scene" viewBox="0 0 1720 1650" role="img" aria-label="Bordsplacering med nio avlånga bord"></svg>
+
+<script>
+if (location.hash === "#embed") document.body.classList.add("embed");
+
+// Samma positioner som på fotot:
+// rad 1: Bord 3, 4, 5 · rad 2: Bord 8 (stående), 6, 7 · rad 3: Bord 2 (stående), 1, 9
+const tables = [
+  { label: "Bord 3", col: 0, row: 0,
+    top:    [[17,"Julia"],[31,"Carl"],[18,"Andreas"]],
+    bottom: [[33,"Linda"],[34,"Håkan"]] },
+  { label: "Bord 4", col: 1, row: 0,
+    top:    [[19,"Olivia"],[36,"Johan"],[37,"Grace"]],
+    bottom: [[35,"Alexandra"],[20,"Andrés"]] },
+  { label: "Bord 5", col: 2, row: 0,
+    top:    [[16,"Jenny"],[7,"Daniela"],[13,"Theodor"]],
+    bottom: [[8,"Nadia"],[30,"Davi"],[46,"Lejla"]] },
+
+  { label: "Bord 8", col: 0, row: 1, vertical: true,
+    top:    [[25,"Isak"],[29,"Ayob"],[28,"Ali"]],          // vänster sida
+    bottom: [[41,"Celine"],[21,"Douglas"],[22,"Ebba"]] },  // höger sida
+  { label: "Bord 6", col: 1, row: 1,
+    top:    [[24,"Jessica"],[32,"Martin"],[39,"Olena"]],
+    bottom: [[40,"Eric"],[23,"Mikael"],[38,"Farmor"]] },
+  { label: "Bord 7", col: 2, row: 1,
+    top:    [[45,"Ellen"],[12,"Matilda"],[43,"Tanya"]],
+    bottom: [[11,"David"],[44,"Jakob"],[42,"Erik B"]] },
+
+  { label: "Bord 2", col: 0, row: 2, vertical: true,
+    top:    [[6,"Hjalmar"],[5,"Michaela S"]],              // vänster sida
+    bottom: [[9,"Michaela G"],[10,"Erik J"]] },            // höger sida
+  { label: "Bord 1", col: 1, row: 2,
+    top:    [[3,"Mormor"],[2,"Peter"],[27,"Asmaa"]],
+    bottom: [[4,"Morfar"],[1,"Mervi"],[26,"Mohammad"]] },
+  { label: "Bord 9", col: 2, row: 2,
+    top:    [null, null],                                   // lediga platser
+    bottom: [[14,"Alina"],[15,"Mustafa"]] },
+];
+
+const svgNS = "http://www.w3.org/2000/svg";
+const svg = document.getElementById("scene");
+
+function el(name, attrs, parent) {
+  const n = document.createElementNS(svgNS, name);
+  for (const k in attrs) n.setAttribute(k, attrs[k]);
+  if (parent) parent.appendChild(n);
+  return n;
+}
+
+const TABLE_L = 430, TABLE_S = 120; // lång- och kortsida
+const SEAT_R = 13, SEAT_GAP = 22;
+const X0 = 315, Y0 = 265;
+const CELL_W = 580, CELL_H = 545;
+
+function seatPositions(count, length) {
+  // jämnt fördelade längs långsidan
+  const pos = [];
+  for (let j = 0; j < count; j++) {
+    pos.push(-length / 2 + (length / (count + 1)) * (j + 1));
+  }
+  return pos;
+}
+
+function guestText(g, x, y, guest, anchor) {
+  const txt = el("text", { x, y, class: "guest", "text-anchor": anchor }, g);
+  const numSpan = el("tspan", { class: "guestNum" }, txt);
+  numSpan.textContent = guest[0] + ". ";
+  const nameSpan = el("tspan", {}, txt);
+  nameSpan.textContent = guest[1];
+}
+
+tables.forEach(t => {
+  const cx = X0 + t.col * CELL_W;
+  const cy = Y0 + t.row * CELL_H;
+  const g = el("g", {}, svg);
+  const guestCount = [...t.top, ...t.bottom].filter(Boolean).length;
+
+  if (!t.vertical) {
+    // liggande bord: gäster längs över- och undersidan
+    el("rect", { x: cx - TABLE_L/2, y: cy - TABLE_S/2, width: TABLE_L, height: TABLE_S, rx: 10, class: "tableRect" }, g);
+
+    seatPositions(t.top.length, TABLE_L).forEach((dx, j) => {
+      const guest = t.top[j];
+      const sy = cy - TABLE_S/2 - SEAT_GAP;
+      el("circle", { cx: cx + dx, cy: sy, r: SEAT_R, class: guest ? "seat" : "seatEmpty" }, g);
+      if (guest) guestText(g, cx + dx, j % 2 ? sy - 68 : sy - 30, guest, "middle");
+    });
+    seatPositions(t.bottom.length, TABLE_L).forEach((dx, j) => {
+      const guest = t.bottom[j];
+      const sy = cy + TABLE_S/2 + SEAT_GAP;
+      el("circle", { cx: cx + dx, cy: sy, r: SEAT_R, class: guest ? "seat" : "seatEmpty" }, g);
+      if (guest) guestText(g, cx + dx, j % 2 ? sy + 82 : sy + 44, guest, "middle");
+    });
+  } else {
+    // stående bord: gäster längs vänster och höger sida
+    el("rect", { x: cx - TABLE_S/2, y: cy - TABLE_L/2, width: TABLE_S, height: TABLE_L, rx: 10, class: "tableRect" }, g);
+
+    seatPositions(t.top.length, TABLE_L).forEach((dy, j) => {
+      const guest = t.top[j];
+      const sx = cx - TABLE_S/2 - SEAT_GAP;
+      el("circle", { cx: sx, cy: cy + dy, r: SEAT_R, class: guest ? "seat" : "seatEmpty" }, g);
+      if (guest) guestText(g, sx - 28, cy + dy + 6, guest, "end");
+    });
+    seatPositions(t.bottom.length, TABLE_L).forEach((dy, j) => {
+      const guest = t.bottom[j];
+      const sx = cx + TABLE_S/2 + SEAT_GAP;
+      el("circle", { cx: sx, cy: cy + dy, r: SEAT_R, class: guest ? "seat" : "seatEmpty" }, g);
+      if (guest) guestText(g, sx + 28, cy + dy + 6, guest, "start");
+    });
+  }
+
+  const lbl = el("text", { x: cx, y: cy + 2, class: "bordName" }, g);
+  lbl.textContent = t.label;
+  const cnt = el("text", { x: cx, y: cy + 26, class: "bordCount" }, g);
+  cnt.textContent = guestCount + " gäster";
+});
+</script>
+</body>
+</html>
