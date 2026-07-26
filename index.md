@@ -11,7 +11,9 @@
 | 18:10 | 🚪 Gästerna börjar gå in |
 | 18:25 | 🍷 Presentation av menyn, dryck serveras |
 | 18:40 | 🥗 Förrätt |
+| 19:10 | 📸 Fotopaus — Alina och Mustafa går iväg och fotar |
 | 19:30 | 🍽️ Varmrätt — 🎤 lekar och tal |
+| 20:30 | 📸 Ev. fotopaus 2 — Alina och Mustafa går iväg och fotar |
 | 20:50 | 🎂 Kaffe och tårta — Alina och Mustafa skär tårtan |
 | 21:30 | 💃 Första dansen |
 | 21:50 | 🎉 Dansgolvet öppnar — öppna fotobås 📸 + tornet, Lyran + dansgolv |
@@ -55,6 +57,7 @@
 - Ställa ut två korgar med toalettkit vid toaletterna
 - Hålla koll på vigselringar
 - Hålla koll på Alinas väska (läppbalsam, ögondroppar, extralinser, makeup, legitimation osv.)
+- Ge Alina buketten på vägen ut
 
 ## Att göra – under bröllopsdagen (toastmasters)
 
