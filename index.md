@@ -14,10 +14,10 @@
 | 19:10 | 📸 Fotopaus — Alina och Mustafa går iväg och fotar |
 | 19:30 | 🍽️ Varmrätt — 🎤 lekar och tal |
 | 20:30 | 📸 Ev. fotopaus 2 — Alina och Mustafa går iväg och fotar |
-| 20:50 | 🎂 Kaffe och tårta — Alina och Mustafa skär tårtan |
-| 21:30 | 💃 Första dansen |
+| 20:50 | 🎂 Kaffe och tårta — Alina och Mustafa skär tårtan, 🎤 toastmaster informerar om tornet och fotobås |
+| 21:30 | 💃 Första dansen — Alina och Mustafa dansar själva 1 minut, sedan joinar toastmasters |
 | 21:50 | 🎉 Dansgolvet öppnar — öppna fotobås 📸 + tornet, Lyran + dansgolv |
-| 00:00 | 🍕 Vickning |
+| 23:00 | 🍕 Vickning |
 | 03:00 | 🌙 Kvällen är slut |
 
 ## Att göra – innan bröllopsdagen
@@ -67,8 +67,10 @@
 - Sätta igång låten när Alina och Mustafa går ut efter vigsel
 - Välkomna in gästerna till middagen när det är dags
 - Ha koll på eventuella lekar/tal
-- Annonsera första dansen och sätta på musik
-- Informera om att fotobås och tornet öppnar
+- Annonsera första dansen och sätta på musik — låta Alina och Mustafa dansa själva 1 minut, sedan joina dansen
+- Informera om att fotobås och tornet öppnar (vid kaffe och tårta)
+- Testa ljudsystemet
+- Veta var alla ska stå under vigseln
 
 ## Övrig information till toastmasters (+önskemål)
 
