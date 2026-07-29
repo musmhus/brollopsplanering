@@ -5,7 +5,7 @@
 | Tid   | Aktivitet |
 |-------|-----------|
 | 15:30 | 📍 Ankomst till Lyran |
-| 16:00 | 🤝 Mustafa möter vigselförrättaren |
+| 16:00 | 🤝 Mustafa möter vigselförrättaren — 🪪 vi legitimerar oss och visar vigselförrättaren våra vittnen |
 | 16:30 | 💍 Vigsel |
 | 16:50 | 🥂 Mingel i trädgården (gäster) — 📸 Mustafa och Alina smyger in och fotar + egentid |
 | 18:10 | 🚪 Gästerna börjar gå in |
