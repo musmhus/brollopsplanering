@@ -48,43 +48,35 @@
 </head>
 <body>
 <h1>Bordsplacering</h1>
-<svg id="scene" viewBox="0 0 1720 1650" role="img" aria-label="Bordsplacering med nio avlånga bord"></svg>
+<svg id="scene" viewBox="0 0 1680 1560" role="img" aria-label="Bordsplacering med sex bord"></svg>
 
 <script>
 if (location.hash === "#embed") document.body.classList.add("embed");
 
 // Samma positioner som på fotot:
-// rad 1: Bord 3, 4, 5 · rad 2: Bord 8 (stående), 6, 7 · rad 3: Bord 2 (stående), 1, 9
+// vänster kolumn: Bord 2, Brudparets bord (stående), Bord 1 (stående)
+// höger kolumn: Bord 3, Bord 4, Bord 5
 const tables = [
-  { label: "Bord 3", col: 0, row: 0,
-    top:    [[17,"Julia"],[31,"Carl"],[18,"Andreas"]],
-    bottom: [[33,"Linda"],[34,"Håkan"]] },
-  { label: "Bord 4", col: 1, row: 0,
-    top:    [[19,"Olivia"],[36,"Johan"],[37,"Grace"]],
-    bottom: [[35,"Alexandra"],[20,"Andrés"]] },
-  { label: "Bord 5", col: 2, row: 0,
-    top:    [[16,"Jenny"],[7,"Daniela"],[13,"Theodor"]],
-    bottom: [[8,"Nadia"],[30,"Davi"],[46,"Lejla"]] },
+  { label: "Bord 2", cx: 380, cy: 290, len: 480, depth: 130,
+    top:    [[43,"Tanya"],[12,"Matilda"],[45,"Ellen"],[9,"Michaela G"]],
+    bottom: [[44,"Jakob"],[42,"Erik B"],[11,"David"],[10,"Erik J"]] },
+  { label: "Bord 3", cx: 1180, cy: 290, len: 760, depth: 130,
+    top:    [[13,"Theodor"],[7,"Daniela"],[46,"Lejla"],[31,"Carl"],[35,"Alexandra"],[37,"Grace"]],
+    bottom: [[8,"Nadia"],[30,"Davi"],[16,"Jenny"],[36,"Johan"],[20,"Andrés"],[19,"Olivia"]] },
 
-  { label: "Bord 8", col: 0, row: 1, vertical: true,
-    top:    [[25,"Isak"],[29,"Ayob"],[28,"Ali"]],          // vänster sida
-    bottom: [[41,"Celine"],[21,"Douglas"],[22,"Ebba"]] },  // höger sida
-  { label: "Bord 6", col: 1, row: 1,
-    top:    [[24,"Jessica"],[32,"Martin"],[39,"Olena"]],
-    bottom: [[40,"Eric"],[23,"Mikael"],[38,"Farmor"]] },
-  { label: "Bord 7", col: 2, row: 1,
-    top:    [[45,"Ellen"],[12,"Matilda"],[43,"Tanya"]],
-    bottom: [[11,"David"],[44,"Jakob"],[42,"Erik B"]] },
+  { label: ["Brudparets", "bord ♡"], cx: 330, cy: 790, len: 300, depth: 200, vertical: true,
+    top:    [[14,"Alina"],[15,"Mustafa"]],                 // vänster sida
+    bottom: [null, null] },                                // lediga platser
+  { label: "Bord 4", cx: 1180, cy: 790, len: 640, depth: 130,
+    top:    [[41,"Celine"],[21,"Douglas"],[28,"Ali"],[5,"Michaela S"],[25,"Isak"]],
+    bottom: [[22,"Ebba"],[18,"Andreas"],[17,"Julia"],[29,"Ayob"],[6,"Hjalmar"]] },
 
-  { label: "Bord 2", col: 0, row: 2, vertical: true,
-    top:    [[6,"Hjalmar"],[5,"Michaela S"]],              // vänster sida
-    bottom: [[9,"Michaela G"],[10,"Erik J"]] },            // höger sida
-  { label: "Bord 1", col: 1, row: 2,
-    top:    [[3,"Mormor"],[2,"Peter"],[27,"Asmaa"]],
-    bottom: [[4,"Morfar"],[1,"Mervi"],[26,"Mohammad"]] },
-  { label: "Bord 9", col: 2, row: 2,
-    top:    [null, null],                                   // lediga platser
-    bottom: [[14,"Alina"],[15,"Mustafa"]] },
+  { label: "Bord 1", cx: 330, cy: 1330, len: 400, depth: 180, vertical: true,
+    top:    [[26,"Mohammad"],[1,"Mervi"],[3,"Mormor"]],     // vänster sida
+    bottom: [[27,"Asmaa"],[2,"Peter"],[4,"Morfar"]] },      // höger sida
+  { label: "Bord 5", cx: 1180, cy: 1330, len: 520, depth: 130,
+    top:    [[24,"Jessica"],[40,"Eric"],[32,"Martin"],[38,"Farmor"]],
+    bottom: [[23,"Mikael"],[39,"Olena"],[34,"Håkan"],[33,"Linda"]] },
 ];
 
 const svgNS = "http://www.w3.org/2000/svg";
@@ -97,10 +89,7 @@ function el(name, attrs, parent) {
   return n;
 }
 
-const TABLE_L = 430, TABLE_S = 120; // lång- och kortsida
 const SEAT_R = 13, SEAT_GAP = 22;
-const X0 = 315, Y0 = 265;
-const CELL_W = 580, CELL_H = 545;
 
 function seatPositions(count, length) {
   // jämnt fördelade längs långsidan
@@ -120,48 +109,51 @@ function guestText(g, x, y, guest, anchor) {
 }
 
 tables.forEach(t => {
-  const cx = X0 + t.col * CELL_W;
-  const cy = Y0 + t.row * CELL_H;
+  const cx = t.cx, cy = t.cy, L = t.len, S = t.depth;
   const g = el("g", {}, svg);
   const guestCount = [...t.top, ...t.bottom].filter(Boolean).length;
 
   if (!t.vertical) {
     // liggande bord: gäster längs över- och undersidan
-    el("rect", { x: cx - TABLE_L/2, y: cy - TABLE_S/2, width: TABLE_L, height: TABLE_S, rx: 10, class: "tableRect" }, g);
+    el("rect", { x: cx - L/2, y: cy - S/2, width: L, height: S, rx: 10, class: "tableRect" }, g);
 
-    seatPositions(t.top.length, TABLE_L).forEach((dx, j) => {
+    seatPositions(t.top.length, L).forEach((dx, j) => {
       const guest = t.top[j];
-      const sy = cy - TABLE_S/2 - SEAT_GAP;
+      const sy = cy - S/2 - SEAT_GAP;
       el("circle", { cx: cx + dx, cy: sy, r: SEAT_R, class: guest ? "seat" : "seatEmpty" }, g);
       if (guest) guestText(g, cx + dx, j % 2 ? sy - 68 : sy - 30, guest, "middle");
     });
-    seatPositions(t.bottom.length, TABLE_L).forEach((dx, j) => {
+    seatPositions(t.bottom.length, L).forEach((dx, j) => {
       const guest = t.bottom[j];
-      const sy = cy + TABLE_S/2 + SEAT_GAP;
+      const sy = cy + S/2 + SEAT_GAP;
       el("circle", { cx: cx + dx, cy: sy, r: SEAT_R, class: guest ? "seat" : "seatEmpty" }, g);
       if (guest) guestText(g, cx + dx, j % 2 ? sy + 82 : sy + 44, guest, "middle");
     });
   } else {
     // stående bord: gäster längs vänster och höger sida
-    el("rect", { x: cx - TABLE_S/2, y: cy - TABLE_L/2, width: TABLE_S, height: TABLE_L, rx: 10, class: "tableRect" }, g);
+    el("rect", { x: cx - S/2, y: cy - L/2, width: S, height: L, rx: 10, class: "tableRect" }, g);
 
-    seatPositions(t.top.length, TABLE_L).forEach((dy, j) => {
+    seatPositions(t.top.length, L).forEach((dy, j) => {
       const guest = t.top[j];
-      const sx = cx - TABLE_S/2 - SEAT_GAP;
+      const sx = cx - S/2 - SEAT_GAP;
       el("circle", { cx: sx, cy: cy + dy, r: SEAT_R, class: guest ? "seat" : "seatEmpty" }, g);
       if (guest) guestText(g, sx - 28, cy + dy + 6, guest, "end");
     });
-    seatPositions(t.bottom.length, TABLE_L).forEach((dy, j) => {
+    seatPositions(t.bottom.length, L).forEach((dy, j) => {
       const guest = t.bottom[j];
-      const sx = cx + TABLE_S/2 + SEAT_GAP;
+      const sx = cx + S/2 + SEAT_GAP;
       el("circle", { cx: sx, cy: cy + dy, r: SEAT_R, class: guest ? "seat" : "seatEmpty" }, g);
       if (guest) guestText(g, sx + 28, cy + dy + 6, guest, "start");
     });
   }
 
-  const lbl = el("text", { x: cx, y: cy + 2, class: "bordName" }, g);
-  lbl.textContent = t.label;
-  const cnt = el("text", { x: cx, y: cy + 26, class: "bordCount" }, g);
+  const lines = Array.isArray(t.label) ? t.label : [t.label];
+  const lbl = el("text", { x: cx, y: cy + 2 - (lines.length - 1) * 19, class: "bordName" }, g);
+  lines.forEach((line, i) => {
+    const span = el("tspan", { x: cx, dy: i ? 38 : 0 }, lbl);
+    span.textContent = line;
+  });
+  const cnt = el("text", { x: cx, y: cy + 26 + (lines.length - 1) * 21, class: "bordCount" }, g);
   cnt.textContent = guestCount + " gäster";
 });
 </script>
