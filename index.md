@@ -121,3 +121,4 @@
 - Steamer
 - Laddare
 - Talkort
+- Packad övernattningsväska med linser och tandborstar
