@@ -18,7 +18,7 @@
 | 19:30 | 🍽️ Varmrätt — 🎤 lekar och tal |
 | 20:50 | 🎂 Kaffe och tårta — Alina och Mustafa skär tårtan, 🎤 toastmaster informerar om tornet och fotobås |
 | 21:30 | 💃 Första dansen — Alina och Mustafa dansar själva 1 minut, sedan joinar toastmasters |
-| 21:50 | 🎉 Dansgolvet öppnar — öppna fotobås 📸 + tornet, Lyran + dansgolv |
+| 21:35 | 🎉 Dansgolvet öppnar — öppna fotobås 📸 + tornet, Lyran + dansgolv |
 | 23:00 | 🍕 Vickning |
 | 03:00 | 🌙 Kvällen är slut |
 
