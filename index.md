@@ -11,6 +11,7 @@
 | 16:30 | 💍 Vigsel |
 | 16:45 | 🥂 Mingel i trädgården — Mustafa och Alina firar med gästerna |
 | 16:50 | 🎵 Toastmasters sätter på spellistan "Mingel bröllop" |
+| 17:30 | 📸 Alina och Mustafa smyger in och fotar inomhus |
 | 18:10 | 🚪 Gästerna börjar gå in |
 | 18:15 | 🎵 Toastmaster sätter på spellistan "Middag bröllop" |
 | 18:25 | 🍷 Presentation av menyn, dryck serveras |
