@@ -72,7 +72,7 @@
 - Annonsera första dansen och sätta på musik — låta Alina och Mustafa dansa själva 1 minut, sedan joina dansen
 - Informera om att fotobås och tornet öppnar (vid kaffe och tårta)
 - Testa ljudsystemet
-- Veta var alla ska stå under vigseln
+- Veta var alla ska sitta under vigseln: Mustafas närmaste familj längst fram till höger och Alinas närmaste familj längst fram till vänster. Alina har många släktingar, så de fyller på i båda sidorna bakom de närmaste
 
 ## Övrig information till toastmasters (+önskemål)
 
