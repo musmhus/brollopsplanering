@@ -5,6 +5,7 @@
 | Tid   | Aktivitet |
 |-------|-----------|
 | 14:45 | 📍 Ankomst till Lyran |
+| 14:45 | 💐 Sätta blommor i männens kostymer |
 | 15:00 | 📸 Möt upp fotograf och ta parbilder |
 | 16:00 | 🤝 Mustafa och Alina möter vigselförrättaren — 🪪 vi legitimerar oss och visar vigselförrättaren våra vittnen |
 | 16:30 | 💍 Vigsel |
