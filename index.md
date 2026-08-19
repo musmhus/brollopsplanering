@@ -123,3 +123,12 @@
 - Laddare
 - Talkort
 - Packad övernattningsväska med linser och tandborstar
+
+## Checklista över saker att ta med till/från Lyran
+
+- Bordsplaceringskort (ska inte tas med hem)
+- Bordsnummer
+- Kamera och film + instruktion
+- Bröllopsris
+- Toalettkit + korgar
+- Gästbok + pennor
