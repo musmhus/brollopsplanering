@@ -30,7 +30,7 @@
   - Antal bord och bordsplacering
   - Designa bordsplacering och be dem skriva ut
   - Blommor och färgtema: skicka med exempelbilder och färgkoder
-  - Frågor: Går det att få en annan färg på tårtan? Kan vi få tillgång till övervåningen från kl. 14.30? Kommer ni lägga ut bordsplaceringskorten?
+  - Frågor: Går det att få en annan färg på tårtan? Kommer ni lägga ut bordsplaceringskorten?
 - Gå igenom punkter från vigselförrättare och meddela hur vi vill göra
 - Välja dikt till vigsel
 - Boka möte med toastmasters
@@ -76,6 +76,7 @@
 
 - Alina kommer att gå ned och möta Mustafa vid altaret
 - I lokalen finns projektor, sladdlösa mikrofoner och ljudsystem som kopplas med Bluetooth
+- Vi har tillgång till Lyrans övervåning från kl. 15.00
 - Kontaktinformation Lyran: josefin@konditorilyran.se
 
 ## Lyran bistår med
