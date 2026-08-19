@@ -114,6 +114,7 @@
 - Brudklänning
 - Slöja
 - Brudskor
+- Beige bh
 - Ballerinaskor
 - Vigselring
 - Legitimation
