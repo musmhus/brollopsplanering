@@ -76,7 +76,7 @@
 
 ## Övrig information till toastmasters (+önskemål)
 
-- Alina kommer att gå ned och möta Mustafa vid altaret
+- Alina och Mustafa går ned tillsammans till altaret
 - I lokalen finns projektor, sladdlösa mikrofoner och ljudsystem som kopplas med Bluetooth
 - Vi har tillgång till Lyrans övervåning från kl. 15.00
 - Kontaktinformation Lyran: josefin@konditorilyran.se
