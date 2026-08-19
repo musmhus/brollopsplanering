@@ -30,24 +30,24 @@
   - Gästlista med allergier + be om alternativ meny
   - Kontaktinformation till Jakob och Erik
   - Antal bord och bordsplacering
-  - Designa bordsplacering och be dem skriva ut
+  - ~~Designa bordsplacering och be dem skriva ut~~
   - Blommor och färgtema: skicka med exempelbilder och färgkoder
   - Frågor: Går det att få en annan färg på tårtan? Kommer ni lägga ut bordsplaceringskorten?
 - Gå igenom punkter från vigselförrättare och meddela hur vi vill göra
 - Välja dikt till vigsel
 - Boka möte med toastmasters
 - ~~Boka hotell~~
-- Boka möte med bröllopsfotograf
+- ~~Boka möte med bröllopsfotograf~~
 - Lämna in kostym för skräddning
 - Skapa bordsplacering
 - ~~Beställa bröllopsris~~
-- Beställa bordsplaceringskort
+- ~~Beställa bordsplaceringskort~~
 - Välja musik att gå ut till, efter vigsel och första dansen
 - Boka danskurs?
 - DJ?
-- Beställa kameror + film
-- Betala sista fakturan till Lyran (senast 12/8)
-- Inhandla toalettartiklar: hårspray, munspray, alvedon, ipren, spraydeo osv.
+- ~~Beställa kameror + film~~
+- ~~Betala sista fakturan till Lyran (senast 12/8)~~
+- ~~Inhandla toalettartiklar: hårspray, munspray, alvedon, ipren, spraydeo osv.~~
 - Beskrivning av gäster att lägga på borden
 
 ## Att göra – under bröllopsdagen (övrigt)
