@@ -8,6 +8,7 @@
 | 14:45 | 💐 Sätta blommor i männens kostymer |
 | 15:00 | 📸 Möt upp fotograf och ta parbilder |
 | 16:00 | 🤝 Mustafa och Alina möter vigselförrättaren — 🪪 vi legitimerar oss och visar vigselförrättaren våra vittnen |
+| 16:10 | 🚻 Gå på toa innan vigsel (Alina kan behöva hjälp med klänningen) |
 | 16:30 | 💍 Vigsel |
 | 16:45 | 🥂 Mingel i trädgården — Mustafa och Alina firar med gästerna |
 | 16:50 | 🎵 Toastmasters sätter på spellistan "Mingel bröllop" |
