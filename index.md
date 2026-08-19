@@ -4,7 +4,7 @@
 
 | Tid   | Aktivitet |
 |-------|-----------|
-| 15:30 | 📍 Ankomst till Lyran |
+| 14:45 | 📍 Ankomst till Lyran |
 | 16:00 | 🤝 Mustafa möter vigselförrättaren — 🪪 vi legitimerar oss och visar vigselförrättaren våra vittnen |
 | 16:30 | 💍 Vigsel |
 | 16:50 | 🥂 Mingel i trädgården (gäster) — 📸 Mustafa och Alina smyger in och fotar + egentid |
@@ -30,7 +30,7 @@
   - Antal bord och bordsplacering
   - Designa bordsplacering och be dem skriva ut
   - Blommor och färgtema: skicka med exempelbilder och färgkoder
-  - Frågor: Går det att få en annan färg på tårtan? Kan vi få tillgång till övervåningen från kl. 15.30? Kommer ni lägga ut bordsplaceringskorten?
+  - Frågor: Går det att få en annan färg på tårtan? Kan vi få tillgång till övervåningen från kl. 14.30? Kommer ni lägga ut bordsplaceringskorten?
 - Gå igenom punkter från vigselförrättare och meddela hur vi vill göra
 - Välja dikt till vigsel
 - Boka möte med toastmasters
@@ -103,8 +103,8 @@
 | 11:00 | Hår |
 | 13:00 | Smink |
 | 13:30 | Lunch |
-| 14:30 | Beställa taxi och gå igenom checklista |
-| 15:30 | Ankomst till Lyran |
+| 14:00 | Beställa taxi och gå igenom checklista |
+| 14:45 | Ankomst till Lyran |
 
 ## Checklista Alina
 
