@@ -118,7 +118,7 @@
 - Ballerinaskor
 - Vigselring
 - Legitimation
-- En extra klänning?
+- En extra klänning
 - Väskan med extralinser, smink, tights osv.
 - Steamer
 - Laddare
