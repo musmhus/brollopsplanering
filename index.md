@@ -23,59 +23,59 @@
 | 02:45 | 🧳 Packa ihop saker att ta med hem — se "Checklista över saker att ta med till/från Lyran" |
 | 03:00 | 🌙 Kvällen är slut |
 
-## Att göra – innan bröllopsdagen
+## 1. Att göra – innan bröllopsdagen
 
-1. ~~Boka hotell~~
-2. ~~Boka möte med bröllopsfotograf~~
-3. ~~Beställa bröllopsris~~
-4. ~~Beställa kameror + film~~
-5. ~~Lämna in kostym för skräddning~~
-6. ~~Betala sista fakturan till Lyran (senast 12/8)~~
-7. ~~Skapa bordsplacering~~
-8. ~~Beställa bordsplaceringskort~~
-9. ~~Inhandla toalettartiklar: hårspray, munspray, alvedon, ipren, spraydeo osv.~~
-10. Boka möte med toastmasters
-11. Gå igenom punkter från vigselförrättare och meddela hur vi vill göra
-12. Välja dikt till vigsel
-13. Välja musik att gå ut till, efter vigsel och första dansen
-14. Boka danskurs?
-15. DJ?
-16. Beskrivning av gäster att lägga på borden
-17. Meddela Josefin:
-    1. Hur länge vigseln kommer pågå, dvs när minglet börjar
-    2. Körschema
-    3. Gästlista med allergier + be om alternativ meny
-    4. Kontaktinformation till Jakob och Erik
-    5. Antal bord och bordsplacering
-    6. ~~Designa bordsplacering och be dem skriva ut~~
-    7. Blommor och färgtema: skicka med exempelbilder och färgkoder
-    8. Frågor: Går det att få en annan färg på tårtan? Kommer ni lägga ut bordsplaceringskorten?
+- ~~Boka hotell~~
+- ~~Boka möte med bröllopsfotograf~~
+- ~~Beställa bröllopsris~~
+- ~~Beställa kameror + film~~
+- ~~Lämna in kostym för skräddning~~
+- ~~Betala sista fakturan till Lyran (senast 12/8)~~
+- ~~Skapa bordsplacering~~
+- ~~Beställa bordsplaceringskort~~
+- ~~Inhandla toalettartiklar: hårspray, munspray, alvedon, ipren, spraydeo osv.~~
+- Boka möte med toastmasters
+- Gå igenom punkter från vigselförrättare och meddela hur vi vill göra
+- Välja dikt till vigsel
+- Välja musik att gå ut till, efter vigsel och första dansen
+- Boka danskurs?
+- DJ?
+- Beskrivning av gäster att lägga på borden
+- Meddela Josefin:
+  - Hur länge vigseln kommer pågå, dvs när minglet börjar
+  - Körschema
+  - Gästlista med allergier + be om alternativ meny
+  - Kontaktinformation till Jakob och Erik
+  - Antal bord och bordsplacering
+  - ~~Designa bordsplacering och be dem skriva ut~~
+  - Blommor och färgtema: skicka med exempelbilder och färgkoder
+  - Frågor: Går det att få en annan färg på tårtan? Kommer ni lägga ut bordsplaceringskorten?
 
-## Att göra – under bröllopsdagen (övrigt)
+## 2. Att göra – under bröllopsdagen (övrigt)
 
-1. Ge bordsplaceringskort till personalen som ska duka
-2. Ställa ut två korgar med toalettkit vid toaletterna
-3. Lägga ut bröllopsris på bänkar och stolar i trädgården innan vigsel (senast 16:00) – Tanya
-4. Hålla kontakt med fotografen Ellinor och informera om viktiga familjemedlemmar etc. (möta henne 16:00) – Mervi eller Michaela
-5. Se till att Mustafas närmaste familj sätter sig längst fram till höger och Alinas närmaste familj får platserna längst fram till vänster
-6. Hålla koll på vigselringar
-7. Ge Alina buketten på vägen ut
-8. Hålla koll på Alinas väska (läppbalsam, ögondroppar, extralinser, makeup, legitimation osv.) – löpande under dagen
+- Ge bordsplaceringskort till personalen som ska duka
+- Ställa ut två korgar med toalettkit vid toaletterna
+- Lägga ut bröllopsris på bänkar och stolar i trädgården innan vigsel (senast 16:00) – Tanya
+- Hålla kontakt med fotografen Ellinor och informera om viktiga familjemedlemmar etc. (möta henne 16:00) – Mervi eller Michaela
+- Se till att Mustafas närmaste familj sätter sig längst fram till höger och Alinas närmaste familj får platserna längst fram till vänster
+- Hålla koll på vigselringar
+- Ge Alina buketten på vägen ut
+- Hålla koll på Alinas väska (läppbalsam, ögondroppar, extralinser, makeup, legitimation osv.) – löpande under dagen
 
-## Att göra – under bröllopsdagen (toastmasters)
+## 3. Att göra – under bröllopsdagen (toastmasters)
 
-1. Testa ljudsystemet
-2. Veta var alla ska sitta under vigseln: Mustafas närmaste familj längst fram till höger och Alinas närmaste familj längst fram till vänster. Alina har många släktingar, så de fyller på i båda sidorna bakom de närmaste
-3. Visa gäster till trädgården
-4. Påminna gäster om att stänga av sina mobiltelefoner innan vigseln (foto ej tillåten utöver fotografen)
-5. Hålla kontakt med Josefin innan vigsel för att signalera när Alina och Mustafa kommer att gå ut och sätta igång låten som de går ut till
-6. Sätta igång låten när Alina och Mustafa går ut efter vigsel
-7. Sätta på spellistan "Mingel bröllop" (16:50)
-8. Sätta på spellistan "Middag bröllop" (18:15)
-9. Välkomna in gästerna till middagen när det är dags
-10. Ha koll på eventuella lekar/tal
-11. Informera om att fotobås och tornet öppnar (vid kaffe och tårta)
-12. Annonsera första dansen och sätta på musik — låta Alina och Mustafa dansa själva 1 minut, sedan joina dansen
+- Testa ljudsystemet
+- Veta var alla ska sitta under vigseln: Mustafas närmaste familj längst fram till höger och Alinas närmaste familj längst fram till vänster. Alina har många släktingar, så de fyller på i båda sidorna bakom de närmaste
+- Visa gäster till trädgården
+- Påminna gäster om att stänga av sina mobiltelefoner innan vigseln (foto ej tillåten utöver fotografen)
+- Hålla kontakt med Josefin innan vigsel för att signalera när Alina och Mustafa kommer att gå ut och sätta igång låten som de går ut till
+- Sätta igång låten när Alina och Mustafa går ut efter vigsel
+- Sätta på spellistan "Mingel bröllop" (16:50)
+- Sätta på spellistan "Middag bröllop" (18:15)
+- Välkomna in gästerna till middagen när det är dags
+- Ha koll på eventuella lekar/tal
+- Informera om att fotobås och tornet öppnar (vid kaffe och tårta)
+- Annonsera första dansen och sätta på musik — låta Alina och Mustafa dansa själva 1 minut, sedan joina dansen
 
 ## Övrig information till toastmasters (+önskemål)
 
@@ -112,38 +112,38 @@
 | 14:00 | Beställa taxi och gå igenom checklista |
 | 14:45 | Ankomst till Lyran |
 
-## Checklista Alina
+## 1. Checklista Alina
 
-1. Brudklänning
-2. Slöja
-3. Brudskor
-4. Beige bh
-5. Ballerinaskor
-6. Vigselring
-7. Legitimation
-8. En extra klänning
-9. Väskan med extralinser, smink, tights osv.
-10. Steamer
-11. Laddare
-12. Talkort
-13. Packad övernattningsväska med linser och tandborstar
+- Brudklänning
+- Slöja
+- Brudskor
+- Beige bh
+- Ballerinaskor
+- Vigselring
+- Legitimation
+- En extra klänning
+- Väskan med extralinser, smink, tights osv.
+- Steamer
+- Laddare
+- Talkort
+- Packad övernattningsväska med linser och tandborstar
 
-## Checklista Mustafa
+## 2. Checklista Mustafa
 
-1. Kostym
-2. Slips
-3. Sneakers
-4. Legitimation
-5. Plånbok
-6. Laddare
-7. Steamer
-8. Packad övernattningsväska med linser, ombyte och tandborste
+- Kostym
+- Slips
+- Sneakers
+- Legitimation
+- Plånbok
+- Laddare
+- Steamer
+- Packad övernattningsväska med linser, ombyte och tandborste
 
-## Checklista över saker att ta med till/från Lyran
+## 3. Checklista över saker att ta med till/från Lyran
 
-1. Bordsplaceringskort (ska inte tas med hem)
-2. Bordsnummer
-3. Kamera och film + instruktion
-4. Bröllopsris
-5. Toalettkit + korgar
-6. Gästbok + pennor
+- Bordsplaceringskort (ska inte tas med hem)
+- Bordsnummer
+- Kamera och film + instruktion
+- Bröllopsris
+- Toalettkit + korgar
+- Gästbok + pennor
