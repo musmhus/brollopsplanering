@@ -129,6 +129,10 @@
 
 - Kostym
 - Slips
+- Sneakers
+- Legitimation
+- Plånbok
+- Laddare
 - Steamer
 - Packad övernattningsväska med linser, ombyte och tandborste
 
