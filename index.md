@@ -38,8 +38,8 @@
 - Boka möte med toastmasters
 - ~~Boka hotell~~
 - ~~Boka möte med bröllopsfotograf~~
-- Lämna in kostym för skräddning
-- Skapa bordsplacering
+- ~~Lämna in kostym för skräddning~~
+- ~~Skapa bordsplacering~~
 - ~~Beställa bröllopsris~~
 - ~~Beställa bordsplaceringskort~~
 - Välja musik att gå ut till, efter vigsel och första dansen
