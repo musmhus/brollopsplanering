@@ -20,6 +20,7 @@
 | 21:30 | 💃 Första dansen — Alina och Mustafa dansar själva 1 minut, sedan joinar toastmasters |
 | 21:35 | 🎉 Dansgolvet öppnar — öppna fotobås 📸 + tornet, Lyran + dansgolv |
 | 23:00 | 🍕 Vickning |
+| 02:45 | 🧳 Packa ihop saker att ta med hem — se "Checklista över saker att ta med till/från Lyran" |
 | 03:00 | 🌙 Kvällen är slut |
 
 ## Att göra – innan bröllopsdagen
