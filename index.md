@@ -8,7 +8,7 @@
 | 15:00 | 📸 Möt upp fotograf och ta parbilder |
 | 16:00 | 🤝 Mustafa möter vigselförrättaren — 🪪 vi legitimerar oss och visar vigselförrättaren våra vittnen |
 | 16:30 | 💍 Vigsel |
-| 16:50 | 🥂 Mingel i trädgården (gäster) — 📸 Mustafa och Alina smyger in och fotar + egentid |
+| 16:45 | 🥂 Mingel i trädgården — Mustafa och Alina firar med gästerna |
 | 18:10 | 🚪 Gästerna börjar gå in |
 | 18:25 | 🍷 Presentation av menyn, dryck serveras |
 | 18:40 | 🥗 Förrätt |
