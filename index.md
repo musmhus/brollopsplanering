@@ -125,6 +125,13 @@
 - Talkort
 - Packad övernattningsväska med linser och tandborstar
 
+## Checklista Mustafa
+
+- Kostym
+- Slips
+- Steamer
+- Packad övernattningsväska med linser, ombyte och tandborste
+
 ## Checklista över saker att ta med till/från Lyran
 
 - Bordsplaceringskort (ska inte tas med hem)
