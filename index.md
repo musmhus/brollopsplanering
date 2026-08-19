@@ -65,7 +65,7 @@
 
 - Visa gäster till trädgården
 - Påminna gäster om att stänga av sina mobiltelefoner innan vigseln (foto ej tillåten utöver fotografen)
-- Hålla kontakt med Josefin innan vigsel för att signalera när Alina kommer att gå ut och sätta igång låten som Alina går ut till
+- Hålla kontakt med Josefin innan vigsel för att signalera när Alina och Mustafa kommer att gå ut och sätta igång låten som de går ut till
 - Sätta igång låten när Alina och Mustafa går ut efter vigsel
 - Välkomna in gästerna till middagen när det är dags
 - Ha koll på eventuella lekar/tal
