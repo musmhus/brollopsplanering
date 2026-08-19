@@ -16,7 +16,6 @@
 | 18:40 | 🥗 Förrätt |
 | 19:10 | 📸 Fotopaus — Alina och Mustafa går iväg och fotar |
 | 19:30 | 🍽️ Varmrätt — 🎤 lekar och tal |
-| 20:30 | 📸 Ev. fotopaus 2 — Alina och Mustafa går iväg och fotar |
 | 20:50 | 🎂 Kaffe och tårta — Alina och Mustafa skär tårtan, 🎤 toastmaster informerar om tornet och fotobås |
 | 21:30 | 💃 Första dansen — Alina och Mustafa dansar själva 1 minut, sedan joinar toastmasters |
 | 21:50 | 🎉 Dansgolvet öppnar — öppna fotobås 📸 + tornet, Lyran + dansgolv |
