@@ -103,9 +103,9 @@
 |-------|-----------|
 | 09:00 | Gå upp |
 | 09:30 | Frukost |
-| 11:00 | Hår |
-| 13:00 | Smink |
-| 13:30 | Lunch |
+| 10:30 | Hår |
+| 12:15 | Smink |
+| 12:45 | Lunch |
 | 14:00 | Beställa taxi och gå igenom checklista |
 | 14:45 | Ankomst till Lyran |
 
