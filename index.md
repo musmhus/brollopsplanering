@@ -4,7 +4,7 @@
 
 | Tid   | Aktivitet |
 |-------|-----------|
-| 14:45 | 📍 Ankomst till Lyran |
+| 14:50 | 📍 Ankomst till Lyran |
 | 15:00 | 💐 Sätta blommor i männens kostymer (Lyran bistår med blommor) |
 | 15:10 | 💌 Mustafa och Alina delar äktenskapslöften enskilt på övervåningen |
 | 15:30 | 📸 Fotografen Ellinor anländer och presenteras för Mervi och Michaela — fotografering på övervåningen i villan |
@@ -137,7 +137,7 @@
 | 12:15 | Smink |
 | 12:45 | Lunch |
 | 14:00 | Beställa taxi och gå igenom checklista |
-| 14:45 | Ankomst till Lyran |
+| 14:50 | Ankomst till Lyran |
 
 ## 1. Checklista Alina
 
