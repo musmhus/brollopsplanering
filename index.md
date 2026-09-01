@@ -5,23 +5,25 @@
 | Tid   | Aktivitet |
 |-------|-----------|
 | 14:45 | 📍 Ankomst till Lyran |
-| 14:45 | 💐 Sätta blommor i männens kostymer |
-| 15:00 | 📸 Möt upp fotograf och ta parbilder |
+| 15:00 | 💐 Sätta blommor i männens kostymer (Lyran bistår med blommor) |
+| 15:10 | 💌 Mustafa och Alina delar äktenskapslöften enskilt på övervåningen |
+| 15:30 | 📸 Fotografen Ellinor anländer och presenteras för Mervi och Michaela — fotografering på övervåningen i villan |
 | 16:00 | 🤝 Mustafa och Alina möter vigselförrättaren — 🪪 vi legitimerar oss och visar vigselförrättaren våra vittnen |
-| 16:10 | 🚻 Gå på toa innan vigsel (Alina kan behöva hjälp med klänningen) |
+| 16:20 | 🚻 Gå på toa innan vigsel (Alina kan behöva hjälp med klänningen) |
 | 16:30 | 💍 Vigsel — se "Körschema vigsel" nedan |
 | 16:50 | 🥂 Mingel i trädgården — Mustafa och Alina firar med gästerna |
 | 16:50 | 🎵 Toastmasters sätter på spellistan "Mingel bröllop" |
+| 17:00 | 📸 Gruppbilder (se separat beskrivning) och mingelbilder |
 | 17:30 | 📸 Alina och Mustafa smyger in och fotar inomhus |
-| 18:10 | 🚪 Gästerna börjar gå in |
-| 18:15 | 🎵 Toastmaster sätter på spellistan "Middag bröllop" |
-| 18:25 | 🍷 Presentation av menyn, dryck serveras |
-| 18:40 | 🥗 Förrätt |
-| 19:10 | 📸 Fotopaus — Alina och Mustafa går iväg och fotar |
-| 19:30 | 🍽️ Varmrätt — 🎤 lekar och tal |
-| 20:50 | 🎂 Kaffe och tårta — Alina och Mustafa skär tårtan, 🎤 toastmaster informerar om tornet och fotobås |
-| 21:30 | 💃 Första dansen — Alina och Mustafa dansar själva 1 minut, sedan joinar toastmasters |
-| 21:35 | 🎉 Dansgolvet öppnar — öppna fotobås 📸 + tornet, Lyran + dansgolv |
+| 17:50 | 🚪 Gästerna börjar gå in |
+| 17:55 | 🎵 Toastmaster sätter på spellistan "Middag bröllop" |
+| 18:05 | 🍷 Presentation av menyn, dryck serveras |
+| 18:20 | 🥗 Förrätt |
+| 18:50 | 📸 Fotopaus — Alina och Mustafa går ut och fotograferas i golden hour |
+| 19:30 | 🍽️ Alina och Mustafa går in för varmrätt — 🎤 lekar och tal |
+| 21:15 | 🎂 Kaffe och tårta — Alina och Mustafa skär tårtan, 🎤 toastmaster informerar om tornet och fotobås |
+| 22:00 | 💃 Första dansen — Alina och Mustafa dansar själva 1 minut, sedan joinar toastmasters |
+| 22:05 | 🎉 Dansgolvet öppnar — öppna fotobås 📸 + tornet, Lyran + dansgolv |
 | 23:00 | 🍕 Vickning |
 | 02:45 | 🧳 Packa ihop saker att ta med hem — se "3. Checklista över saker att ta med till/från Lyran" |
 | 03:00 | 🌙 Kvällen är slut |
@@ -33,7 +35,20 @@
 | 16:30 | 🎤 Vigseln börjar med vigselförrättarens instruktioner: gästerna ska stänga av sina mobiltelefoner och endast fotografen får fotografera vigseln (undantag: en gäst som filmar) |
 | 16:35 | 🎵 Gästerna får signal om att ställa sig upp (de som kan) när toastmastern spelar upp en ingångslåt på ca 3 min och Alina tågar ut |
 | 16:38 | 💍 Längre anförande om kärlek och äktenskapet, inkl. den lagstadgade delen, ringväxling, kyss och ett fyrfaldigt leve |
-| 16:49 | 🎵 Toastmastern sätter igång utgångslåten. Mustafa och Alina kysser varandra igen och tågar ut genom altargången. Gästerna ställer sig upp och kastar ris. Därefter får gästerna komma fram och kramas och ta foton |
+| 16:49 | 🎵 När vigselförrättaren har utbringat det fyrfaldiga levet sätter toastmastern igång utgångslåten och signalerar att gästerna ska ställa sig upp. Mustafa och Alina kysser varandra igen och tågar ut genom altargången. Gästerna kastar ris. Därefter får gästerna komma fram och kramas och ta foton |
+
+## Körschema fotografen
+
+| Tid   | Aktivitet |
+|-------|-----------|
+| 15:30 | 📸 Fotografen Ellinor anländer och presenteras för Mervi och Michaela — fotografering inne i villan på övervåningen |
+| 16:00 | 🚶 Ellinor går ner till vigselplatsen och blir informerad av Mervi om vilka gästerna är |
+| 16:30 | 💍 Vigseln börjar |
+| 16:50 | 🤗 Vigseln slutar — grattiskramar fotograferas |
+| 17:00 | 👥 Gruppbilder (se separat beskrivning) och mingelbilder |
+| 17:30 | 📸 Alina och Mustafa smyger in och blir fotograferade av Ellinor inne i stora salen |
+| 18:50 | 🌇 Fotopaus — Alina och Mustafa går ut och fotograferas i golden hour |
+| 19:30 | 🍽️ Alina och Mustafa går in för varmrätt |
 
 ## 1. Att göra – innan bröllopsdagen
 
@@ -68,7 +83,7 @@
 - Ge bordsplaceringskort till personalen som ska duka
 - Ställa ut två korgar med toalettkit vid toaletterna
 - Lägga ut bröllopsris på bänkar och stolar i trädgården innan vigsel (senast 16:00) – Tanya
-- Hålla kontakt med fotografen Ellinor och informera om viktiga familjemedlemmar etc. (möta henne 16:00) – Mervi eller Michaela
+- Hålla kontakt med fotografen Ellinor och informera om viktiga familjemedlemmar etc. (möta henne 15:30) – Mervi eller Michaela
 - Se till att Mustafas närmaste familj sätter sig längst fram till höger och Alinas närmaste familj får platserna längst fram till vänster
 - Hålla koll på vigselringar
 - Ge Alina buketten på vägen ut
@@ -81,9 +96,9 @@
 - Visa gäster till trädgården
 - Påminna gäster om att stänga av sina mobiltelefoner innan vigseln (foto ej tillåten utöver fotografen)
 - Hålla kontakt med Josefin innan vigsel för att signalera när Alina och Mustafa kommer att gå ut och sätta igång låten som de går ut till
-- Sätta igång låten när Alina och Mustafa går ut efter vigsel
+- Sätta igång utgångslåten direkt efter det fyrfaldiga levet och signalera att gästerna ska ställa sig upp
 - Sätta på spellistan "Mingel bröllop" (16:50)
-- Sätta på spellistan "Middag bröllop" (18:15)
+- Sätta på spellistan "Middag bröllop" (17:55)
 - Välkomna in gästerna till middagen när det är dags
 - Ha koll på eventuella lekar/tal
 - Informera om att fotobås och tornet öppnar (vid kaffe och tårta)
@@ -91,7 +106,7 @@
 
 ## Övrig information till toastmasters (+önskemål)
 
-- Alina och Mustafa går ned tillsammans till altaret
+- Mustafa står vid altaret när vigseln börjar, och Alina tågar ut till ingångslåten (ca 3 min) kl. 16:35
 - I lokalen finns projektor, sladdlösa mikrofoner och ljudsystem som kopplas med Bluetooth
 - Vi har tillgång till Lyrans övervåning från kl. 15.00
 - Kontaktinformation Lyran: josefin@konditorilyran.se
