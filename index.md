@@ -9,8 +9,8 @@
 | 15:00 | 📸 Möt upp fotograf och ta parbilder |
 | 16:00 | 🤝 Mustafa och Alina möter vigselförrättaren — 🪪 vi legitimerar oss och visar vigselförrättaren våra vittnen |
 | 16:10 | 🚻 Gå på toa innan vigsel (Alina kan behöva hjälp med klänningen) |
-| 16:30 | 💍 Vigsel |
-| 16:45 | 🥂 Mingel i trädgården — Mustafa och Alina firar med gästerna |
+| 16:30 | 💍 Vigsel — se "Körschema vigsel" nedan |
+| 16:50 | 🥂 Mingel i trädgården — Mustafa och Alina firar med gästerna |
 | 16:50 | 🎵 Toastmasters sätter på spellistan "Mingel bröllop" |
 | 17:30 | 📸 Alina och Mustafa smyger in och fotar inomhus |
 | 18:10 | 🚪 Gästerna börjar gå in |
@@ -25,6 +25,15 @@
 | 23:00 | 🍕 Vickning |
 | 02:45 | 🧳 Packa ihop saker att ta med hem — se "3. Checklista över saker att ta med till/från Lyran" |
 | 03:00 | 🌙 Kvällen är slut |
+
+## Körschema vigsel
+
+| Tid   | Aktivitet |
+|-------|-----------|
+| 16:30 | 🎤 Vigseln börjar med vigselförrättarens instruktioner: gästerna ska stänga av sina mobiltelefoner och endast fotografen får fotografera vigseln (undantag: en gäst som filmar) |
+| 16:35 | 🎵 Gästerna får signal om att ställa sig upp (de som kan) när toastmastern spelar upp en ingångslåt på ca 3 min och Alina tågar ut |
+| 16:38 | 💍 Längre anförande om kärlek och äktenskapet, inkl. den lagstadgade delen, ringväxling, kyss och ett fyrfaldigt leve |
+| 16:49 | 🎵 Toastmastern sätter igång utgångslåten. Mustafa och Alina kysser varandra igen och tågar ut genom altargången. Gästerna ställer sig upp och kastar ris. Därefter får gästerna komma fram och kramas och ta foton |
 
 ## 1. Att göra – innan bröllopsdagen
 
