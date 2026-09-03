@@ -50,6 +50,29 @@
 | 18:50 | 🌇 Fotopaus — Alina och Mustafa går ut och fotograferas i golden hour |
 | 19:30 | 🍽️ Alina och Mustafa går in för varmrätt |
 
+## Gruppfoton
+
+### Mustafa
+
+- Mustafa
+- Mustafa + Jakob och Erik (toastmasters)
+- Mustafa + Jakob, Erik, Lejla, Davi och Teddy (vänner)
+- Mustafa + Asmaa och Mohammad (mamma och pappa)
+- Mustafa + Ayob och Ali (bröderna)
+- Mustafa + Ali, Ayob, mamma och pappa (familjen)
+
+### Alina
+
+- Alina + Michaela + Isak, Julia, Olivia, Douglas, Carl, Céline och Grace (syster och kusinerna)
+- Alina + Michaela och Mervi (syster och mamma)
+- Alina + Michaela (syster)
+- Alina + Michaela, Daniela, Matilda, Mickis, Tanya, Jenny, Nadia och Julia (möhippa/vännerna)
+
+### Gemensam
+
+- Brudparet + Asmaa, Mohammad, Ayob, Ali, Michaela, Hjalmar, Mervi och Peter (närmaste familj)
+- Brudparet + Erik (toastmaster) och Tanya
+
 ## 1. Att göra – innan bröllopsdagen
 
 - ~~Boka hotell~~
