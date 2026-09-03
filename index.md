@@ -19,8 +19,8 @@
 | 17:55 | 🎵 Toastmaster sätter på spellistan "Middag bröllop" |
 | 18:05 | 🍷 Presentation av menyn, dryck serveras |
 | 18:20 | 🥗 Förrätt |
-| 18:55–19:20 | 📸 Fotopaus — Alina och Mustafa går ut och fotograferas i golden hour |
-| 19:30 | 🍽️ Alina och Mustafa går in för varmrätt — 🎤 lekar och tal |
+| 18:55 | 📸 Fotopaus — Alina och Mustafa går ut och fotograferas i golden hour |
+| 19:20 | 🍽️ Alina och Mustafa går in för varmrätt — 🎤 lekar och tal |
 | 21:15 | 🎂 Kaffe och tårta — Alina och Mustafa skär tårtan, 🎤 toastmaster informerar om tornet och fotobås |
 | 22:00 | 💃 Första dansen — Alina och Mustafa dansar själva 1 minut, sedan joinar toastmasters |
 | 22:05 | 🎉 Dansgolvet öppnar — öppna fotobås 📸 + tornet, Lyran + dansgolv |
@@ -47,8 +47,8 @@
 | 16:50 | 🤗 Vigseln slutar — grattiskramar fotograferas |
 | 17:00 | 👥 Gruppbilder (se separat beskrivning) och mingelbilder |
 | 17:30 | 📸 Alina och Mustafa smyger in och blir fotograferade av Ellinor inne i stora salen |
-| 18:55–19:20 | 🌇 Fotopaus — Alina och Mustafa går ut och fotograferas i golden hour |
-| 19:30 | 🍽️ Alina och Mustafa går in för varmrätt |
+| 18:55 | 🌇 Fotopaus — Alina och Mustafa går ut och fotograferas i golden hour |
+| 19:20 | 🍽️ Alina och Mustafa går in för varmrätt |
 
 ## Gruppfoton
 
