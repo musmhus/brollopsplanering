@@ -118,7 +118,7 @@
 - Veta var alla ska sitta under vigseln: Mustafas närmaste familj längst fram till höger och Alinas närmaste familj längst fram till vänster. Alina har många släktingar, så de fyller på i båda sidorna bakom de närmaste
 - Visa gäster till trädgården
 - Påminna gäster om att stänga av sina mobiltelefoner innan vigseln (foto ej tillåten utöver fotografen)
-- Hålla kontakt med Josefin innan vigsel för att signalera när Alina och Mustafa kommer att gå ut och sätta igång låten som de går ut till
+- Hålla kontakt med Josefin innan vigsel för att signalera när Alina kommer att gå ut till Mustafa och sätta igång låten som hon går ut till
 - Sätta igång utgångslåten direkt efter det fyrfaldiga levet och signalera att gästerna ska ställa sig upp
 - Sätta på spellistan "Mingel bröllop" (16:50)
 - Sätta på spellistan "Middag bröllop" (17:55)
